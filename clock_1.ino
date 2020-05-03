@@ -13,8 +13,8 @@
 Adafruit_NeoPixel strip = Adafruit_NeoPixel((PIXEL_PER_SEGMENT * 7 * PIXEL_DIGITS) + (PIXEL_DASH * 1), PIXEL_PIN, NEO_GRB + NEO_KHZ800);
 
 // set Wi-Fi SSID and password
-const char* ssid = "roaster";
-const char* password = "Suheyl123#";
+const char* ssid = "XXXX";
+const char* password = "XXXX";
 
 int period = 1000; //Update frequency
 unsigned long time_now = 0;
